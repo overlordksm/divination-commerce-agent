@@ -1,0 +1,28 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "OpportunityCard",
+  "type": "object",
+  "required": [
+    "signal",
+    "user_anxiety",
+    "product_hypothesis",
+    "paid_offer",
+    "distribution_test",
+    "success_metric",
+    "decision_rule"
+  ],
+  "properties": {
+    "signal": { "type": "string" },
+    "user_anxiety": { "type": "string" },
+    "product_hypothesis": { "type": "string" },
+    "free_entry": { "type": "string" },
+    "paid_offer": { "type": "string" },
+    "distribution_test": { "type": "string" },
+    "success_metric": { "type": "string" },
+    "decision_rule": { "type": "string" },
+    "risks": {
+      "type": "array",
+      "items": { "type": "string" }
+    }
+  }
+}
