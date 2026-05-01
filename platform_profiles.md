@@ -74,6 +74,12 @@ Display name:
 GuanWei Career Timing
 ```
 
+Handle:
+
+```text
+@GuanweiCareer
+```
+
 Bio:
 
 ```text
@@ -118,6 +124,12 @@ Display name:
 
 ```text
 GuanWei Career Timing
+```
+
+Username:
+
+```text
+u/GuanweiCareer
 ```
 
 Short bio:

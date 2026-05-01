@@ -16,9 +16,9 @@
 
 ### Accounts
 
-- LinkedIn profile URL.
-- X handle.
-- Reddit username.
+- LinkedIn: `GuanWei Career Timing`
+- X: `@GuanweiCareer`
+- Reddit: `u/GuanweiCareer`
 - Optional Threads handle.
 
 ### Product

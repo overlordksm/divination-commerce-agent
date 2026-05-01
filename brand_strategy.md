@@ -56,6 +56,12 @@ Display name:
 GuanWei Career Timing
 ```
 
+Confirmed accounts:
+
+- LinkedIn: `GuanWei Career Timing`
+- X: `@GuanweiCareer`
+- Reddit: `u/GuanweiCareer`
+
 Handle priority:
 
 1. `@GuanWeiCareer`
