@@ -20,9 +20,9 @@ AI Era BaZi Career Archetype
 
 Paid ladder:
 
-- `$9`: mini report.
-- `$39`: deep report.
-- `$99-$149`: human-reviewed report.
+- `$9.99`: mini report — https://buy.stripe.com/dRmfZb8xHh0edFt9yzgEg00
+- `$39.99`: deep report — https://buy.stripe.com/3cI7sF01b6lA6d17qrgEg01
+- `$99.99`: human-reviewed report — https://buy.stripe.com/dRm3cpcNX39o0SH3abgEg02
 
 ## Target User
 
