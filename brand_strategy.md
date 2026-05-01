@@ -58,7 +58,7 @@ GuanWei Career Timing
 
 Confirmed accounts:
 
-- LinkedIn: `GuanWei Career Timing`
+- LinkedIn: `GuanWei Career Timing` — https://www.linkedin.com/in/guanwei-career-timing-720400407/
 - X: `@GuanweiCareer`
 - Reddit: `u/GuanweiCareer`
 

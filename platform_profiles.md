@@ -26,6 +26,12 @@ I do not treat a chart as a verdict. I treat it as a pattern map: strengths, bli
 
 ## LinkedIn
 
+Profile URL:
+
+```text
+https://www.linkedin.com/in/guanwei-career-timing-720400407/
+```
+
 Headline:
 
 ```text
